@@ -4,4 +4,4 @@ Repositório público com projetos de estudos.
 
 Visite também meu site/blog com textos sobre programação e reflexões em https://rodrigotognin.com.br
 
-Atualmente estou focando no PHP/Laravel, desenvolvendo projetos e seguindo o curso do Professor Jorge Sant Ana na Udemy, curso com mais de 55 horas sobre PHP, Laravel e VueJS.
+Meus projetos atuais estão focados em sistemas usando PHP e MySQL, seguindo a arquitetura MVC para organização, e Programação Orientada a Objetos.
