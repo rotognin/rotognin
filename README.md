@@ -4,7 +4,7 @@ Meus projetos atuais estão focados em sistemas usando PHP e MySQL, seguindo a a
 
 Os projetos mais atuais que estão em desenvolvimento são: "portaria" e "anotações". Eles estão com uma estrutura melhor a nível de organização de arquivos e codificação mais limpa e bem documentados.
 
-O projeto "portaria" está hospedado online <b>[neste link](https://rodrigotognin.com.br/portaria)</b>. O projeto "anotações" pode ser acessado <b>[neste link](https://rodrigotognin.com.br/anotacoes)</b>, o usuário é <b>convidado</b> e a senha é <b>c0nv1d4d0</b>.
+O projeto "portaria" está hospedado online <b>[neste link](https://rodrigotognin.com.br/portaria)</b>. O projeto "anotações" pode ser acessado <b>[neste link](https://rodrigotognin.com.br/anotacoes)</b>, o usuário é <b>convidado</b> e a senha é <b>c0nv1d4d0</b>
 
 Visite também meu [site/blog com textos sobre programação e reflexões](https://rodrigotognin.com.br)
 <hr>
