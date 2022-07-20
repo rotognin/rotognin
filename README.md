@@ -13,6 +13,7 @@ Objetivos de estudo e aprimoramento:
 <li>MySQL, Redis</li>
 <li>Linux, Docker, Git</li>
 <li>Ambiente Cloud, Padões de Projeto, SOLID</li>
+<li>Testes unitários</li>
 </ul>
 <hr>
 
