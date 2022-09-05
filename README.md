@@ -8,11 +8,11 @@ O projeto "portaria" está hospedado online <b>[neste link](https://rodrigotogni
 <br><hr>
 Objetivos de estudo e aprimoramento:
 <ul>
-<li>HTML, CSS, Javascript, VueJS</li>
+<li>HTML, CSS, Javascript, NodeJS</li>
 <li>PHP, Laravel</li>
-<li>MySQL, Redis</li>
+<li>MySQL</li>
 <li>Linux, Docker, Git</li>
-<li>API, Ambiente Cloud, Padões de Projeto, SOLID</li>
+<li>API, Padões de Projeto, SOLID</li>
 <li>Testes unitários</li>
 </ul>
 <hr>
