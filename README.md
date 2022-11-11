@@ -1,6 +1,6 @@
 ## Rodrigo Tognin
 
-Meus projetos atuais estão focados em sistemas usando PHP e MySQL, seguindo a arquitetura MVC para organização, e Programação Orientada a Objetos, e utilizando o framework Laravel (em alguns projetos), e em meus estudos mais atuais estou focando em Javascript e NodeJS.
+Meus projetos atuais estão focados em sistemas usando PHP e MySQL, além de Delphi (DataSnap - cliente/servidor), seguindo a arquitetura MVC para organização, e Programação Orientada a Objetos, e utilizando o framework Laravel (em alguns projetos), e em meus estudos mais atuais estou focando em Javascript e NodeJS.
 
 Os projetos mais recentes que estão em desenvolvimento são: "portaria", "anotações" e "palavras_api". Eles estão com uma estrutura melhor a nível de organização de arquivos e codificação mais limpa e bem documentados.
 
@@ -8,10 +8,9 @@ O projeto "portaria" está hospedado online <b>[neste link](https://rodrigotogni
 <br><hr>
 Objetivos de estudo e aprimoramento:
 <ul>
-<li>HTML, CSS, Javascript, NodeJS</li>
+<li>HTML, CSS, Javascript, NodeJS, Delphi</li>
 <li>PHP, Laravel</li>
 <li>MySQL</li>
-<li>Linux, Docker, Git</li>
 <li>API, Padões de Projeto, SOLID</li>
 <li>Testes unitários</li>
 </ul>
