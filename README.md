@@ -1,6 +1,6 @@
 ## Rodrigo Tognin
 
-Meus projetos atuais estão focados em sistemas usando PHP/Javascript e MySQL, seguindo a arquitetura MVC para organização, e Programação Orientada a Objetos, e utilizando o framework Laravel (em alguns projetos). Alguns projetos estão online, funcionando na hospedagem do meu site <b>[https://rodrigotognin.com.br]https://rodrigotognin.com.br</b>
+Meus projetos atuais estão focados em sistemas usando PHP/Javascript e MySQL, seguindo a arquitetura MVC para organização, e Programação Orientada a Objetos, e utilizando o framework Laravel (em alguns projetos). Alguns projetos estão online, funcionando na hospedagem do meu site <b>[https://rodrigotognin.com.br](https://rodrigotognin.com.br)</b>
 
 Os projetos mais recentes que estão em desenvolvimento são: "portaria", "anotações" e "palavras_api". Eles estão com uma estrutura melhor a nível de organização de arquivos e codificação mais limpa e bem documentados.
 
